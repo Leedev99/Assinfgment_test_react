@@ -1,0 +1,15 @@
+{
+  "name": "assessment-test-react",
+  "displayName": "assessment-test-react",
+  "expo": {
+    "name": "assessment-test-react",
+    "slug": "assessment-test-react",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
+
+
+
